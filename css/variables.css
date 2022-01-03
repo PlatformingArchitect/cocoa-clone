@@ -1,0 +1,6 @@
+:root {
+  ---yellow: hsl(54, 100%, 49%);
+  ---brown: #814a02;
+  ---horizontal-space: 25px;
+  ---main-border: 1px solid rgba(0, 0, 0, 0.3);
+}
