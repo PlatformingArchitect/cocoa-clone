@@ -111,16 +111,16 @@
   background-color: white;
   display: flex;
   justify-content: space-between;
-  padding: 5px 25px;
+  padding: 5px 15px;
   box-sizing: border-box;
   align-items: center;
 }
 
 .reply .reply__column:first-child {
-  width: 5%;
+  width: 10%;
 }
 .reply .reply__column:last-child {
-  width: 95%;
+  width: 90%;
   position: relative;
 }
 
@@ -129,7 +129,7 @@
 }
 
 .reply input {
-  padding: 14px;
+  padding: 15px;
   width: 100%;
   border: var(---main-border);
   border-radius: 25px;
