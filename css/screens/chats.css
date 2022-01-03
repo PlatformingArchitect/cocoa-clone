@@ -111,7 +111,7 @@
   background-color: white;
   display: flex;
   justify-content: space-between;
-  padding: 5px 15px;
+  padding: 5px 25px;
   box-sizing: border-box;
   align-items: center;
 }
@@ -129,7 +129,7 @@
 }
 
 .reply input {
-  padding: 15px;
+  padding: 14px;
   width: 100%;
   border: var(---main-border);
   border-radius: 25px;
